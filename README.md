@@ -1,5 +1,5 @@
-# Locator v1.0
-## Author: github.com/thelinuxchoice/locator
+# Locator v1.1 by j0k36
+## Author: github.com/J0K36/locator
 ## IG: instagram.com/thelinuxchoice
 ### Don't copy this code without give me the credits, nerd! 
 
@@ -23,4 +23,4 @@ bash locator.sh
 ### Donate!
 Support the authors:
 
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<noscript><a href="https://liberapay.com/J0K36/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
